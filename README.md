@@ -17,7 +17,9 @@ https://github.com/Monolith3D/Monolith_Gantry
 
 ![1](https://github.com/Monolith3D/Monolith_Gantry/blob/main/Images/split_view.png)
 Monolith Gantry Configurator: https://docs.google.com/spreadsheets/d/11iV7xaDnxCokHTYbqd2fWtconkPwQHn6b1iaK8izEaE/edit?usp=sharing
-
+## BOM / Shopping list (WIP)
+Using google sheets for colaberation. Once finalised we will add the BOM here.
+[Google Sheets](https://docs.google.com/spreadsheets/d/1Um9t5z__oUKupxS1T7CO_2S4OmsoNHa5ppY6cXej4WI/edit?usp=sharing)
 ## Software: 
 Klipper: https://github.com/Klipper3d/klipper
 
