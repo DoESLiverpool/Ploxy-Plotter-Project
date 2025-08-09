@@ -38,4 +38,5 @@ Wiring Document tool: https://github.com/wireviz/WireViz/tree/master
 
 ## Scope Creep:
 
-Tool Changer: https://howtomechatronics.com/projects/diy-pen-plotter-with-automatic-tool-changer-cnc-drawing-machine/
+- Tool Changer: https://howtomechatronics.com/projects/diy-pen-plotter-with-automatic-tool-changer-cnc-drawing-machine/
+- "Part Cooling" - Use server fans to help dry paint.
