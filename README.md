@@ -8,10 +8,13 @@
 
 High Speed Plotter Project derived from the Ploxy R2 AND Monolith R1 projects.
 ![Ploxy R2](https://github.com/user-attachments/assets/7dccb695-88ab-4631-8b25-c688c0278442)
-Ploxy R2: https://github.com/DanniDesign/Ploxy
+## Ploxy R2: 
+- [Github](https://github.com/DanniDesign/Ploxy)
+- [Discord Server](https://discord.gg/fE9uQ3SBGz) 
+- [Discord Thread](https://discord.com/channels/1029426383614648421/1221865386794942605)
 
 
-Monolith Gantry: 
+## Monolith Gantry: 
 
 https://github.com/Monolith3D/Monolith_Gantry
 
