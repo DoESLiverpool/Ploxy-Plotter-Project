@@ -1,0 +1,104 @@
+9-8-25
+
+Decisions to date 
+
+1. Ploxy based design
+2. USB control board
+
+End goal and performance requirements 
+
+1. A1 plot size
+2. Height sufficient for paintbrush
+	1. 1. 30-50mm
+3. Speed appropriate for large plot and return of paintbrush
+		target 1m/s, max achievable with board for first iteration 
+4. Accuracy 0.1mm 
+5. Minimal cost
+
+
+Work breakdown structure
+
+1. Design
+	1. Frame
+		1. 2040 extrusion
+		2. Connections
+	2. Gantry
+		1. Extend volume to 595 x 841 plus over travel for tool head (150mm?), plus travel for palette (85mm)
+		2. extrusion or drilled solid aluminium TBD
+		3. Mechanism
+			1. Rails
+			2. Frame
+			3. Belts
+				1. Runice GT2 9mm
+			4. Pulleys
+				1. Runice 20 tooth
+			5. Motors
+			6. Bearings
+			7. screws
+	3. Pen holder
+		1. Extend ploxy tool rail to a 70mm rail for 50mm travel
+		2. Adapt to Cartesian gantry in CAD (CT300)
+		3. 
+	4. Electronics
+		1. Motors 
+			1. x2 Y stepper motors (nema 17)
+			2. x2 X stepper motors (nema 17)
+			3. x1 tool head motor  (nema 14)
+		2. Tool head
+			1. SHT36 V3 (USB)
+			2. micro switch for zeroing 
+			3. 24V supply
+		3. Control board
+			1. BTT SKR E3 V3 USB 
+		4. Klipper host
+			1. Raspberry Pi 4 
+				1. power supply
+				2. SD card (micro)
+		5. Cables
+			1. Data 
+				1. RPi to tool head (USB A to C)
+				2. RPi to control board (USB A to micro USB)
+			2. Cable chain rated
+			3. Stepper cables
+			4. Power transmission
+			5. End switches
+		6. Micro switches to home pen
+		7. Power supplies 24V for motors and 5V for Raspberry Pi
+	5. Software
+			1. SVG to Klipper friendly Gcode
+		
+2. Sourcing
+	1. Review parts available at Does
+3. CAD
+	1. Adapt Ploxy parts
+4. Print parts
+5. CNC
+	1. Aluminium plates
+6. Build
+7. Test
+8. Refine 
+9. Phase 2
+	1. Paint management
+		1. Brush wash unit
+			1. Water exchange 
+			2. Mechanical brush cleaner
+		2. Brush loading
+	2. Pen rotation
+	3. Screen
+	4. Smart plug to turn the motion system and RPi on from Klipper
+	5. 48V
+	6. Wifi
+	7. . Base?
+	8. Adjustable feet
+
+
+
+Failure modes
+
+1. Size of machine may make unstable
+2. May not meet speed and accuracy requirement
+3. Linear rails may not be suitable
+4. Design may not be adaptable
+
+
+
