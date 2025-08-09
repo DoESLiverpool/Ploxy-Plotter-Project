@@ -31,9 +31,11 @@ Klipper: https://github.com/Klipper3d/klipper
 XY Gantry - SKR Mini E3 v3 - 4 TMC 2209 
 Toolhead - Mellow Fly SHT 36 v3  https://teamgloomy.github.io/fly_sht36_max_v3_general.html
 
-
+### Enclosure
+[LRS-Electronics-Box](https://github.com/churls5495/LRS-Electronics-Box)
 ## Documentation tool
 Wiring Document tool: https://github.com/wireviz/WireViz/tree/master
 
 ## Scope Creep:
+
 Tool Changer: https://howtomechatronics.com/projects/diy-pen-plotter-with-automatic-tool-changer-cnc-drawing-machine/
