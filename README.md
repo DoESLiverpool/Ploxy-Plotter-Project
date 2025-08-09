@@ -3,8 +3,8 @@
 # Scope/Goals
 
 - A1 (595mm * 841mm) build size - A2 at a minimum.
-- Capable of 10k Acceleration at quality.
-- 1000mm² Travels
+- Capable of 10kmm/s² Acceleration at quality.
+- 1000mm/s Travels
 
 High Speed Plotter Project derived from the Ploxy R2 AND Monolith R1 projects.
 ![Ploxy R2](https://github.com/user-attachments/assets/7dccb695-88ab-4631-8b25-c688c0278442)
