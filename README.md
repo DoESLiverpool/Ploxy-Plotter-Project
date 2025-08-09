@@ -1,7 +1,21 @@
 # Ploxy-Plotter-Project
+
+# Scope/Goals
+
+- A1 (595mm * 841mm) build size - A2 at a minimum.
+- Capable of 10k Acceleration at quality.
+- 1000mm² Travels
+
 High Speed Plotter Project derived from the Ploxy R2 AND Monolith R1 projects.
+![Ploxy R2](https://github.com/user-attachments/assets/7dccb695-88ab-4631-8b25-c688c0278442)
 Ploxy R2: https://github.com/DanniDesign/Ploxy
-Monolith Gantry: https://github.com/Monolith3D/Monolith_Gantry
+
+
+Monolith Gantry: 
+
+https://github.com/Monolith3D/Monolith_Gantry
+
+![1](https://github.com/Monolith3D/Monolith_Gantry/blob/main/Images/split_view.png)
 Monolith Gantry Configurator: https://docs.google.com/spreadsheets/d/11iV7xaDnxCokHTYbqd2fWtconkPwQHn6b1iaK8izEaE/edit?usp=sharing
 
 ## Software: 
